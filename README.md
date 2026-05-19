@@ -2,11 +2,7 @@
 
 # Hey there, I'm Yiben👋
 
-**AI · Data · Builder**
-
 I build tools that combine data, APIs, and machine learning to solve real problems.
-
-📍 Italy &nbsp;·&nbsp; 🗣️ Italian · English · Spanish
 
 ---
 
